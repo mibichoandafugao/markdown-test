@@ -79,10 +79,10 @@ print("hello world")
 ![visual studio code logo](vscode.png "vscode logo")
 
 <!-- Github Markdown -->
-*[x] Task 1
-*[] Task 2
-*[] Task 3
-*[] Task 4
+* [x] Task 1
+* [] Task 2
+* [] Task 3
+* [] Task 4
 
 
 
